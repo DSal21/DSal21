@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DSal21
 - 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning JavaScript
 - 📫 You can contact me via email dany.salas210302@gmail.com
 
 <!---
