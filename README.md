@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DSal21
-- 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in full-stack development, and also learning a little about AI and Machine Learning
+- 🌱 I’m currently learning JavaScript, Python, HTML, and CSS
 - 📫 You can contact me via email dany.salas210302@gmail.com
 
 <!---
